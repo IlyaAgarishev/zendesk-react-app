@@ -1,9 +1,9 @@
 {
-  "name": "Zendesk React App Boilerplate",
+  "name": "Zendesk React App",
   "author": {
-    "name": "Cloudhuset",
-    "email": "info@cloudhuset.dk",
-    "url": "https://cloudhuset.dk"
+    "name": "Ilya Agarishev",
+    "email": "",
+    "url": ""
   },
   "defaultLocale": "en",
   "private": true,
